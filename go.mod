@@ -23,7 +23,7 @@ require (
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
-	golang.org/x/text v0.3.6
+	golang.org/x/text v0.3.8
 	google.golang.org/api v0.47.0 // indirect
 	google.golang.org/genproto v0.0.0-20210518161634-ec7691c0a37d // indirect
 )
